@@ -1,0 +1,1 @@
+python3 ./ffssdp.py wlan0 -t "tel://0540146013"
